@@ -1,4 +1,4 @@
 # Sinacker
 This is my first project
 <br>
-Author-Sindeed Alam Ibti 
+Author-Sindeed Alam Ibti (Brac University)
